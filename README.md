@@ -2,7 +2,7 @@
 
 📘 Descrição do Desafio
 
-![Desafio Screenshot](Screenshot.png)
+![Desafio Screenshot](screenshot.png)
 
 🧩 Requisitos Técnicos
 
